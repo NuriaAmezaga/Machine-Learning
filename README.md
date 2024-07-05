@@ -1,5 +1,8 @@
 # Predicting Housing Prices
 
+![image](https://github.com/NuriaAmezaga/Machine-Learning/assets/168557674/66ff0391-b654-441b-a427-99e3b168665e)
+
+
 ## Introduction
 Welcome to the Predicting Housing Prices project! This project aims to leverage data to predict housing prices in Ames, Iowa. 
 I have developed two machine learning models: one for classification and one for regression. 
